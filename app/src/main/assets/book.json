@@ -1,0 +1,96 @@
+{
+  "status": 200,
+  "message": "success",
+  "result": [
+    {
+      "kdBuku": "As111",
+      "judulBuku": "Sherlock Holmes : Jack The Ripper",
+      "pengarang": "Conan Doyle",
+      "penerbit": "Assma",
+      "tahun": 1988,
+      "stok": 4,
+      "harga": 50000
+    },
+    {
+      "kdBuku": "AS888",
+      "judulBuku": "Sherlock",
+      "pengarang": "conan",
+      "penerbit": "xxx",
+      "tahun": 1888,
+      "stok": 5,
+      "harga": 80000
+    },
+    {
+      "kdBuku": "AW002",
+      "judulBuku": "Sherlock Holmes Series II",
+      "pengarang": "Conan Doyle",
+      "penerbit": "Ganesha",
+      "tahun": 1988,
+      "stok": 3,
+      "harga": 19000
+    },
+    {
+      "kdBuku": "BK001",
+      "judulBuku": "latihan android",
+      "pengarang": "Xxx",
+      "penerbit": "xxx",
+      "tahun": 2016,
+      "stok": 2,
+      "harga": 50000
+    },
+    {
+      "kdBuku": "old",
+      "judulBuku": "old but gold",
+      "pengarang": "noone",
+      "penerbit": "was here publishing",
+      "tahun": 2019,
+      "stok": 16,
+      "harga": 233
+    },
+    {
+      "kdBuku": "RIL",
+      "judulBuku": "Rizal In Love",
+      "pengarang": "Samsul",
+      "penerbit": "Gramedia",
+      "tahun": 2016,
+      "stok": 1,
+      "harga": 15000
+    },
+    {
+      "kdBuku": "swft00",
+      "judulBuku": "Swifty Book",
+      "pengarang": "Epan",
+      "penerbit": "insan madani",
+      "tahun": 2016,
+      "stok": 5,
+      "harga": 70000
+    },
+    {
+      "kdBuku": "swft001",
+      "judulBuku": "swifty book #1",
+      "pengarang": "epan",
+      "penerbit": "Insan Madani",
+      "tahun": 2016,
+      "stok": 10,
+      "harga": 67000
+    },
+    {
+      "kdBuku": "swft002",
+      "judulBuku": "Swifty Book #2",
+      "pengarang": "Evan Gilang Ramadhan",
+      "penerbit": "insan madani",
+      "tahun": 2016,
+      "stok": 5,
+      "harga": 65000
+    },
+    {
+      "kdBuku": "swt48",
+      "judulBuku": "Swift Guidance For Beginner",
+      "pengarang": "Evan Gilang Ramadhan",
+      "penerbit": "Insan Madani",
+      "tahun": 2016,
+      "stok": 100,
+      "harga": 65000
+    }
+  ]
+}
